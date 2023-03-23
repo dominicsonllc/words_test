@@ -1,4 +1,5 @@
-#Task Instruction
+# Task Instruction
+
 Write a program that parses a dictionary file for unique sequences of letters.
 
 Requirements:
